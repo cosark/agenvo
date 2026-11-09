@@ -25,6 +25,10 @@ Experimental [Amp support](docs/amp.md) connects native Amp hosts through a loca
 
 Ask your coding agent to set up Agenvo with the [installation guide](docs/installation.md).
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Agenvo/)
+
 ## If you are an AI agent
 
 - Set up Agenvo for the user and connect their computers and assistant: [Installation](docs/installation.md).
